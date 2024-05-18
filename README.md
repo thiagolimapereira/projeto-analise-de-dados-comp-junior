@@ -17,7 +17,7 @@ Os dados utilizados estão distribuídos em oito tabelas principais, contendo in
 O modelo lógico do banco de dados é apresentado no seguinte formato:
 
 <p align="center">
-  <img src="images/modeloRelacionalDatasets.jpg" alt="Modelo Relacional dos Datasets">
+  <img src="images/modeloRelacionalDatasets.JPG" alt="Modelo Relacional dos Datasets">
 </p>
 
 ## Apresentação
@@ -37,13 +37,13 @@ No notebook encontram-se discussões sobre a distribuição de dados e estratég
 No dashboard encontram-se as principais métricas e indicadores que permitem uma compreensão clara dos dados disponibilizados.
 
 <p align="center">
-  <img src="images/dashboardP1.jpg" alt="Dashboard Página 1">
+  <img src="images/dashboardP1.JPG" alt="Dashboard Página 1">
 </p>
 <p align="center">
-  <img src="images/dashboardP2.jpg" alt="Dashboard Página 2">
+  <img src="images/dashboardP2.JPG" alt="Dashboard Página 2">
 </p>
 <p align="center">
-  <img src="images/dashboardP3.jpg" alt="Dashboard Página 3">
+  <img src="images/dashboardP3.JPG" alt="Dashboard Página 3">
 </p>
 
 ### [Confira aqui o dashboard do projeto.](.)
