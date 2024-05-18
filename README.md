@@ -103,4 +103,4 @@ A resposta detalhada para essa questão pode ser encontrada na pasta `pergunta4`
 A resposta detalhada para essa questão pode ser encontrada no arquivo `TabelaP5.jpg`, que se encontra na pasta `pergunta5` da pasta `Queries SQL`. Porém, os 5 vendedores com o maior número de pedidos cancelados, tiveram, respectivamente, 9, 8, 7, 7 e 7 pedidos cancelados.
 
 #### 14. Quais os estados que tiveram a maior relação “Número de Pedidos”/”Tempo médio de entrega”? <br />
-A resposta detalhada para essa questão pode ser encontrada no arquivo `TabelaP6.jpg`, que se encontra na pasta `pergunta6` da pasta `Queries SQL`. Porém, os 3 estados com a maior relação "Número de Pedidos"/"Tempo médio de entrega" são *Roraima*, *Amapá* e *Acre*, nesta ordem.
+A resposta detalhada para essa questão pode ser encontrada no arquivo `TabelaP6.jpg`, que se encontra na pasta `pergunta6` da pasta `Queries SQL`. Porém, os 3 estados com a maior relação "Número de Pedidos"/"Tempo médio de entrega" são *São Paulo*, *Minas Gerais* e *Rio de Janeiro*, nesta ordem.
