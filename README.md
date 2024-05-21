@@ -46,7 +46,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
   <img src="images/dashboardP3.JPG" alt="Dashboard Página 3">
 </p>
 
-### [Confira aqui o dashboard do projeto.](.)
+### [Confira aqui a apresentação do dashboard do projeto.](https://youtu.be/_hHypi3FaCk)
 
 <br />
 
