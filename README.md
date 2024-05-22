@@ -26,7 +26,7 @@ A análise é apresentada em duas frentes:
 
 ### Notebook Python:
 
-No notebook encontram-se discussões sobre a distribuição de dados e estratégias de negócio para as empresas, gráficos, análises de padrões e comportamentos, perguntas de negócio e tratamento de dados.
+No notebook encontram-se discussões sobre a distribuição de dados, estratégias de negócio para as empresas, gráficos, análises de padrões e comportamentos, perguntas de negócio e tratamento de dados.
 
 ### Confira o notebook Python no arquivo `respostas-pergunta-python.ipynb`.
 
@@ -57,20 +57,20 @@ Para a execução dessa análise, foram utilizadas as seguintes ferramentas:
 - **Excel**: Para responder perguntas de negócio e agrupar dados, com a criação de uma função personalizada utilizando VBA para tratamento de dados.
 - **SQL**: Para responder perguntas de negócio e agrupar dados. As consultas foram estruturadas através do *DBeaver*.
 - **Microsoft Power BI**: Para a construção do dashboard do projeto, com a criação de funções em DAX e tabelas auxiliares para a construção das visualizações.
-- **Python**: Para realizar a conexão entre tabelas .csv, fazer tratamento de dados, realizar análises e construir gráficos usando bibliotecas como Pandas, Matplotlib, Numpy e Seaborn. <br /> O passo a passo, análises e gráficos estão demonstrados no arquivo `respostas-pergunta-python.ipynb`.
+- **Python**: Para realizar a conexão entre tabelas .csv, fazer tratamento de dados, realizar análises e construir gráficos usando bibliotecas como Pandas, Matplotlib, Numpy e Seaborn. <br /> O passo a passo, análises e gráficos são demonstrados no arquivo `respostas-pergunta-python.ipynb`.
 
 <br />
 
 ## Perguntas de Negócio
 
 #### 1. Qual o total vendido (não considerando o frete) do produto ef92defde845ab8450f9d70c526ef70f? <br /> 
-O produto ef92defde845ab8450f9d70c526ef70f teve um total de R$ 109,50 em vendas, desconsiderando o frete. O produto foi vendido 5 vezes, com um preço médio de R$ 21,90.
+O produto ef92defde845ab8450f9d70c526ef70f teve um total de R$ 109,50 em vendas, desconsiderando o frete. O produto foi vendido 5 vezes.
 
 #### 2. Qual o total de vendas no mês de março de 2017 (deconsiderando o frete)? <br /> 
-O mês de março de 2017 teve um total de R$ 434.494,36 em vendas, desconsiderando o frete. O mês teve 2.751 vendas, com um ticket médio de R$ 157,85.
+O mês de março de 2017 teve um total de R$ 434.494,36 em vendas, desconsiderando o frete. O mês teve 2.751 vendas, com um ticket médio de R$ 157,94.
 
 #### 3. Qual o total de vendas do produto 310ae3c140ff94b03219ad0adc3c778f no mês de Março (em 2017 e em 2018)? <br /> 
-O produto 310ae3c140ff94b03219ad0adc3c778f teve um total de R$ 0,00 em vendas no mês de março de 2017, e R$ 145,95 em vendas no mês de março de 2018. O produto não foi vendido em março de 2017 e foi vendido uma vez em março de 2018.
+O produto 310ae3c140ff94b03219ad0adc3c778f teve um total de R$ 0,00 em vendas no mês de março de 2017 e R$ 145,95 em vendas no mês de março de 2018. O produto não foi vendido em março de 2017 e foi vendido uma vez em março de 2018.
 
 #### 4. Qual é o preço médio dos produtos vendidos? <br />
 O preço médio dos produtos vendidos é de R$ 180,41.
